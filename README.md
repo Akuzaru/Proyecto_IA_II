@@ -12,11 +12,11 @@ Desarrollar un modelo de inteligencia artificial que analice datos de consumo, p
 
 ### Dataset:
 
-Tomado del repositorio publico Datos Abiertos de Colombia: Ministerio de Salud y Protección Social de Colombia. (n.d.). Medicamentos vitales no disponibles. Link: https://www.datos.gov.co/Salud-y-Protecci-n-Social/MEDICAMENTOS-VITALES-NO-DISPONIBLES/sdmr-tfmf/about_data
+Tomado del repositorio público Datos Abiertos de Colombia: Ministerio de Salud y Protección Social de Colombia. (n.d.). Medicamentos vitales no disponibles. Link: https://www.datos.gov.co/Salud-y-Protecci-n-Social/MEDICAMENTOS-VITALES-NO-DISPONIBLES/sdmr-tfmf/about_data
 
 Dentro del dataset se puede observar una lista de diagnósticos para diferentes enfermedades con fecha y código, junto a indicación del nombre del medicamento necesario para el tratamiento junto con su concentración, forma, medida, principio activo, y cantidad solicitada por cada entidad de salud.
 
-De modo que los datos o variables que nos interesan para nuestro analisis son las siguientes:
+De modo que los datos o variables que nos interesan para nuestro análisis son las siguientes:
 - Variable de marca de tiempo: FECHA_DE_AUTORIZACIÓN.
 - Variables numéricas: CANTIDAD_SOLICITADA.
 - Variables de texto: TIPO_DE_SOLICITUD, SOLICITANTE/IMPORTADOR, IUM, PRINCIPIO_ACTIVO1, CONCENTRACIÓN_DELMEDICAMENTO1, UNIDAD_MEDIDA1, PRINCIPIO_ACTIVO2, CONCENTRACIÓN_DEL_MEDICAMENTO2, UNIDAD_MEDIDA2, FORMA_FARMACÉUTICA, NOMBRE_COMERCIAL_, PRESENTACIÓN_COMERCIAL, DIAGNOSTICO_CIE-1NO REPORTA, CÓDIGO_DIAGNOSTICO_CIE-10.

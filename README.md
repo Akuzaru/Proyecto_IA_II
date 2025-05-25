@@ -29,4 +29,4 @@ De modo que los datos o variables que nos interesan para nuestro analisis son la
 ### Enlaces:
 - Código en Notebook de Google Colaboratory: https://colab.research.google.com/drive/16n7Sq9JdFpowQAvALTw9VdhLzkGJGQTd?usp=sharing.
 - Video:
-- Repositorio:
+- Repositorio: https://github.com/Akuzaru/Proyecto_IA_II

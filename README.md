@@ -1,5 +1,7 @@
 # Proyecto_IA_II
 
+![Mi imagen](banner.png)
+
 ### Titulo:
 Detección de Medicamentos con Mayor Riesgo de Desabastecimiento.
 

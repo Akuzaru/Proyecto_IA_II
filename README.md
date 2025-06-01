@@ -1,4 +1,4 @@
-# Proyecto_IA_II
+# Proyecto_IA_I
 
 ![Mi imagen](banner.png)
 

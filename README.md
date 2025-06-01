@@ -7,7 +7,7 @@ Detección de Medicamentos con Mayor Riesgo de Desabastecimiento.
 
 ### Autores:
 - Edgar Camilo Ramírez Rueda - 2220101
-- Oscar Silva - 2220087
+- Oscar Andres Silva  Delgado- 2220087
 
 ### Objetivo:
 Desarrollar un modelo de inteligencia artificial que analice datos de consumo, precios y logística para predecir el riesgo de desabastecimiento de medicamentos no vitales en Colombia, permitiendo a farmacias, distribuidores y autoridades de salud tomar decisiones preventivas y optimizar su disponibilidad.
@@ -30,5 +30,5 @@ De modo que los datos o variables que nos interesan para nuestro análisis son l
 
 ### Enlaces:
 - Código en Notebook de Google Colaboratory: https://colab.research.google.com/drive/16n7Sq9JdFpowQAvALTw9VdhLzkGJGQTd?usp=sharing.
-- Video:
+- Video: https://www.youtube.com/watch?v=SSRnSwTVr7w
 - Repositorio: https://github.com/Akuzaru/Proyecto_IA_II

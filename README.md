@@ -2,12 +2,12 @@
 
 ![Mi imagen](banner.png)
 
-### Titulo:
+### Título:
 Detección de Medicamentos con Mayor Riesgo de Desabastecimiento.
 
 ### Autores:
 - Edgar Camilo Ramírez Rueda - 2220101
-- Oscar Andres Silva  Delgado- 2220087
+- Oscar Andres Silva Delgado - 2220087
 
 ### Objetivo:
 Desarrollar un modelo de inteligencia artificial que analice datos de consumo, precios y logística para predecir el riesgo de desabastecimiento de medicamentos no vitales en Colombia, permitiendo a farmacias, distribuidores y autoridades de salud tomar decisiones preventivas y optimizar su disponibilidad.
